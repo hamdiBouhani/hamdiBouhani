@@ -11,13 +11,21 @@
 - 📫 How to reach me: bouhanihamdi@gmail.com
 
 <hr/>
-repositories :
-
 ### https://github.com/hamdiBouhani/mongodb-data-migrate
 
 ==> This package allows to perform versioned migrations on your MongoDB using [go.mongodb.org/mongo-driver](https://github.com/mongodb/mongo-go-driver).
 It depends only on standard library and MongoDB Go Driver.
 Inspired by [mongo-migrate](https://github.com/eminetto/mongo-migrate).
+
+### https://github.com/hamdiBouhani/rabbitmq-send
+
+==> Toy project to test RabbitMQ using golang.
+
+### https://github.com/hamdiBouhani/data-exractor
+
+==> this project has different command line application that exract data from different resources like SQL/ NoSQL databases (MongoDB, PostgreSQL) and files.
+
+<hr/>
 
 **NOTE**: *Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
 
