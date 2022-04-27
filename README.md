@@ -15,6 +15,12 @@
 It depends only on standard library and MongoDB Go Driver.
 Inspired by [mongo-migrate](https://github.com/eminetto/mongo-migrate).
 
+### https://github.com/hamdiBouhani/chat-test
+`CHAT-TEST` is a pure [Golang][Golang] project, that manage a dead simple "chat" system. 
+
+* `Server`: Receiving messages from a network interface (WebSocket) and forwarding them to all the connected clients
+* `Client`: A process reading a string on `STDIN` and forwarding it to the server, and also receiving messages from the same server and writing them to `STDOUT`.
+
 ### https://github.com/hamdiBouhani/rabbitmq-send
  Toy project to test RabbitMQ using golang.
 
