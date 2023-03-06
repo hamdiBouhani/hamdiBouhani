@@ -13,9 +13,9 @@
 ### 🥞 My Tech Stack
 
 I work with many different technologies and languages.
-My favorite ones are React, TypeScript, Python, Node.js, Next.js, Svelte and Vercel.
+My favorite ones are Golang, java, clojure.
 
-[![My Skills](https://skillicons.dev/icons?i=cs,go,git,github,postgres,mongodb,kubernetes,md,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,go,git,github,postgres,mongodb,kubernetes,md,vscode)](https://skillicons.dev)
 
 ---
 
