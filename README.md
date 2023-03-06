@@ -10,6 +10,15 @@
 
 <hr/>
 
+### 🥞 My Tech Stack
+
+I work with many different technologies and languages.
+My favorite ones are React, TypeScript, Python, Node.js, Next.js, Svelte and Vercel.
+
+[![My Skills](https://skillicons.dev/icons?i=cs,go,git,github,postgres,mongodb,kubernetes,md,vscode)](https://skillicons.dev)
+
+---
+
 ### https://github.com/hamdiBouhani/mongodb-data-migrate
  This package allows to perform versioned migrations on your MongoDB using [go.mongodb.org/mongo-driver](https://github.com/mongodb/mongo-go-driver).
 It depends only on standard library and MongoDB Go Driver.
