@@ -48,4 +48,4 @@ Inspired by [mongo-migrate](https://github.com/eminetto/mongo-migrate).
 </a>
   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamdiBouhani&hide_progress=true)](https://github.com/hamdiBouhani/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamdiBouhani)](https://github.com/hamdiBouhani/github-readme-stats)
