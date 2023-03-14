@@ -39,11 +39,5 @@ Inspired by [mongo-migrate](https://github.com/eminetto/mongo-migrate).
 <hr/>
 
 **NOTE**: *Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
+![Hamdi Bouhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamdiBouhani&show_icons=true&theme=transparent)
 
-<a href="https://github.com/hamdiBouhani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamdiBouhani&show_icons=true&theme=radical" />
-</a> 
-<a href="https://github.com/hamdiBouhani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdiBouhani&layout=compact&theme=radical&hide_border=false" />
-</a>
- 
