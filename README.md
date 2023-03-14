@@ -15,7 +15,7 @@
 I work with many different technologies and languages.
 My favorite ones are Golang, java, clojure (not in production i used in some toy projects).
 
-[![My Skills](https://skillicons.dev/icons?i=go,java,git,github,postgres,mongodb,kubernetes,md,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,java,clojure,spring,git,github,postgres,mongodb,docker,kubernetes,md,vscode)](https://skillicons.dev)
 
 ---
 
