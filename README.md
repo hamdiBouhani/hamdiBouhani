@@ -46,6 +46,4 @@ Inspired by [mongo-migrate](https://github.com/eminetto/mongo-migrate).
 <a href="https://github.com/hamdiBouhani">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdiBouhani&layout=compact&theme=radical&hide_border=false" />
 </a>
-  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamdiBouhani&hide_progress=true)](https://github.com/hamdiBouhani/github-readme-stats)
+ 
