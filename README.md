@@ -20,7 +20,7 @@ My favorite ones are Golang, java, clojure (not in production i used in some toy
 ---
 
 Recently I started looking into functional programming and that's how i got introduced to Clojure [![My Skills](https://skillicons.dev/icons?i=clojure)](https://skillicons.dev) :
-[in this repo you will find all the toy project that i implemeted to learn and get familiar with Clojure](https://github.com/hamdiBouhani/clojure-workspace) 
+[in this repo you will find all the projects or scripts that I implemented to learn and get familiar with Clojure](https://github.com/hamdiBouhani/clojure-workspace) 
 
 ---
 
