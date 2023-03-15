@@ -15,11 +15,10 @@
 I work with many different technologies and languages.
 My favorite ones are Golang, java, clojure (not in production i used in some toy projects).
 
-Recently I started looking into functional programming and that's how i got introduced to Clojure :
-[in this repo you will find all the toy project that i implemeted to learn and get familiar with Clojure](https://github.com/hamdiBouhani/clojure-workspace)
-
 [![My Skills](https://skillicons.dev/icons?i=go,java,clojure,spring,git,github,postgres,mongodb,docker,kubernetes,md,vscode)](https://skillicons.dev)
 
+Recently I started looking into functional programming and that's how i got introduced to Clojure [![My Skills](https://skillicons.dev/icons?i=clojure)](https://skillicons.dev) :
+[in this repo you will find all the toy project that i implemeted to learn and get familiar with Clojure](https://github.com/hamdiBouhani/clojure-workspace) 
 ---
 
 ### https://github.com/hamdiBouhani/mongodb-data-migrate
