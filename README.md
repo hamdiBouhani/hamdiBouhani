@@ -1,4 +1,4 @@
-### Hi there, I'am Hamdi Bouhani!  👋
+### Hi there, I'am ![](https://komarev.com/ghpvc/?username=hamdiBouhani&color=blue)!  👋
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/hamdi-bouhani-26752a140/)
 
