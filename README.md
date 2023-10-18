@@ -26,6 +26,12 @@ Recently I started looking into functional programming and that's how i got intr
 
 ---
 
+Recently I started looking into Rust programming language [![My Skills](https://skillicons.dev/icons?i=rust)](https://skillicons.dev) :
+
+[in this repo you will find all the projects or scripts that I implemented to learn and get familiar with Rust](https://github.com/hamdiBouhani/rust-playground-project)) 
+
+---
+
 ### https://github.com/hamdiBouhani/mongodb-data-migrate
  This package allows to perform versioned migrations on your MongoDB using [go.mongodb.org/mongo-driver](https://github.com/mongodb/mongo-go-driver).
 It depends only on standard library and MongoDB Go Driver.
