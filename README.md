@@ -54,8 +54,8 @@ Inspired by [mongo-migrate](https://github.com/eminetto/mongo-migrate).
 **NOTE**: *Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamdiBouhani&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamdiBouhani&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamdiBouhani&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamdiBouhani&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamdiBouhani&theme=default&exclude=html)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamdiBouhani&theme=default&exclude=html)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamdiBouhani&theme=default&exclude=html)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hamdiBouhani&theme=default&utcOffset=8)
 
