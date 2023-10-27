@@ -1,5 +1,11 @@
 ### Hi there, I'am Hamdi Bouhani   👋
 ![](https://komarev.com/ghpvc/?username=hamdiBouhani&color=blue)!
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamdiBouhani&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamdiBouhani&theme=default&exclude=html)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamdiBouhani&theme=default&exclude=html)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamdiBouhani&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hamdiBouhani&theme=default&utcOffset=8)
+
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/hamdi-bouhani-26752a140/)
 
@@ -52,10 +58,3 @@ Inspired by [mongo-migrate](https://github.com/eminetto/mongo-migrate).
 <hr/>
 
 **NOTE**: *Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamdiBouhani&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamdiBouhani&theme=default&exclude=html)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamdiBouhani&theme=default&exclude=html)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamdiBouhani&theme=default&exclude=html)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hamdiBouhani&theme=default&utcOffset=8)
-
