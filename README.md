@@ -1,5 +1,7 @@
 ### Hi there, I'am Hamdi Bouhani 👋 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/hamdi-bouhani-26752a140/)
 
+- 📫 How to reach me: bouhanihamdi@gmail.com, [LINK TO MY RESUME](https://docs.google.com/document/d/e/2PACX-1vQcTHDBUhmKC-k9wVHmR6iyS-5g16MExzJjeX8PNsM68TE-wpo5qGodYJnGZVrX82IUdJ7Q1fMxqwAU/pub).
+
 ![](https://komarev.com/ghpvc/?username=hamdiBouhani&color=blue)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamdiBouhani&theme=default)
@@ -8,23 +10,11 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamdiBouhani&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hamdiBouhani&theme=default&utcOffset=8)
 
-
-
-
-🤔  I’m currently open for: A new job opportunity, [LINK TO MY RESUME](https://docs.google.com/document/d/e/2PACX-1vQcTHDBUhmKC-k9wVHmR6iyS-5g16MExzJjeX8PNsM68TE-wpo5qGodYJnGZVrX82IUdJ7Q1fMxqwAU/pub).
-
-- 🔭 I’m currently working on mongoDB data migration lib [mongodb-data-migrate](https://github.com/hamdiBouhani/mongodb-data-migrate) for [MongoDB Go Driver](https://github.com/mongodb/mongo-go-driver)
-- 🌱 I’m currently learning Golang ,Java, SpringBoot ...
-- 📫 How to reach me: bouhanihamdi@gmail.com
-
 <hr/>
 
 ### 🥞 My Tech Stack
 
-I work with many different technologies and languages.
-My favorite ones are Golang, java.
-
-[![My Skills](https://skillicons.dev/icons?i=go,java,clojure,spring,git,github,postgres,mongodb,docker,kubernetes,md,vscode)](https://skillicons.dev)
+I work with many different technologies and languages like [![My Skills](https://skillicons.dev/icons?i=go,java,clojure,spring,git,github,postgres,mongodb,docker,kubernetes,md,vscode)](https://skillicons.dev).
 
 ---
 
