@@ -1,6 +1,6 @@
-### Hi there, I'am Hamdi Bouhani   👋 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/hamdi-bouhani-26752a140/)
+### Hi there, I'am Hamdi Bouhani 👋 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/hamdi-bouhani-26752a140/)
 
-![](https://komarev.com/ghpvc/?username=hamdiBouhani&color=blue)!
+![](https://komarev.com/ghpvc/?username=hamdiBouhani&color=blue)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamdiBouhani&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamdiBouhani&theme=default&exclude=html)
@@ -22,7 +22,7 @@
 ### 🥞 My Tech Stack
 
 I work with many different technologies and languages.
-My favorite ones are Golang, java, clojure (not in production i used in some toy projects).
+My favorite ones are Golang, java.
 
 [![My Skills](https://skillicons.dev/icons?i=go,java,clojure,spring,git,github,postgres,mongodb,docker,kubernetes,md,vscode)](https://skillicons.dev)
 
@@ -51,12 +51,6 @@ Inspired by [mongo-migrate](https://github.com/eminetto/mongo-migrate).
 * `Server`: Receiving messages from a network interface (WebSocket) and forwarding them to all the connected clients
 * `Client`: A process reading a string on `STDIN` and forwarding it to the server, and also receiving messages from the same server and writing them to `STDOUT`.
 
-### https://github.com/hamdiBouhani/rabbitmq-send
- Toy project to test RabbitMQ using golang.
-
 ### https://github.com/hamdiBouhani/data-exractor
  this project has different command line application that exract data from different resources like SQL/ NoSQL databases (MongoDB, PostgreSQL) and files.
 
-<hr/>
-
-**NOTE**: *Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
