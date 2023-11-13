@@ -1,12 +1,8 @@
-### Hi there, I'am Hamdi Bouhani 👋 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/hamdi-bouhani-26752a140/)
+# Hamdi Bouhani - Back-End Developer 👋 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/hamdi-bouhani-26752a140/)
 
-## Skills
-
-- **Programming Languages:** Golang, Java, SQL, Shell
-- **Messaging/Message Brokers:** REST, gRPC, GraphQL, RabbitMQ
-- **Databases:** PostgreSQL, MongoDB
-- **Search Engine:** Elasticsearch
-- **DevOps:** Docker, GitHub, GitLab, Kubernetes, Pulumi go-SDK, Terraform
+📍 Amsterdam, North Holland, Netherlands  
+📧 bouhanihamdi@gmail.com | 📱 WhatsApp: +216 24 960 318 | ☎️ Phone: +31684256478  
+🔗 [LinkedIn](https://www.linkedin.com/in/hamdi-bouhani-26752a140/) | 🐙 [GitHub](https://github.com/hamdiBouhani)
 
 - 📫 How to reach me: bouhanihamdi@gmail.com, [LINK TO MY RESUME](https://docs.google.com/document/d/e/2PACX-1vQcTHDBUhmKC-k9wVHmR6iyS-5g16MExzJjeX8PNsM68TE-wpo5qGodYJnGZVrX82IUdJ7Q1fMxqwAU/pub).
 
@@ -38,34 +34,26 @@ Recently I started looking into Rust programming language [![My Skills](https://
 
 ---
 
-### https://github.com/hamdiBouhani/mongodb-data-migrate
- This package allows to perform versioned migrations on your MongoDB using [go.mongodb.org/mongo-driver](https://github.com/mongodb/mongo-go-driver).
-It depends only on standard library and MongoDB Go Driver.
-Inspired by [mongo-migrate](https://github.com/eminetto/mongo-migrate).
+## Skills
 
-### https://github.com/hamdiBouhani/chat-test
-`CHAT-TEST` is a pure [Golang][Golang] project, that manage a dead simple "chat" system. 
-
-* `Server`: Receiving messages from a network interface (WebSocket) and forwarding them to all the connected clients
-* `Client`: A process reading a string on `STDIN` and forwarding it to the server, and also receiving messages from the same server and writing them to `STDOUT`.
-
-### https://github.com/hamdiBouhani/data-exractor
- this project has different command line application that exract data from different resources like SQL/ NoSQL databases (MongoDB, PostgreSQL) and files.
-
----
-Sure, I can help you generate a sample portfolio for Hamdi Bouhani. Below is a simple template that you can use as a starting point. Note that this is a basic example, and you may want to customize it further based on your preferences and the specific projects Hamdi Bouhani has worked on.
-
-```markdown
-# Hamdi Bouhani - Back-End Developer
-
-📍 Amsterdam, North Holland, Netherlands  
-📧 bouhanihamdi@gmail.com | 📱 WhatsApp: +216 24 960 318 | ☎️ Phone: +31684256478  
-🔗 [LinkedIn](https://www.linkedin.com/in/hamdi-bouhani-26752a140/) | 🐙 [GitHub](https://github.com/hamdiBouhani)
+- **Programming Languages:** Golang, Java, SQL, Shell
+- **Messaging/Message Brokers:** REST, gRPC, GraphQL, RabbitMQ
+- **Databases:** PostgreSQL, MongoDB
+- **Search Engine:** Elasticsearch
+- **DevOps:** Docker, GitHub, GitLab, Kubernetes, Pulumi go-SDK, Terraform
 
 ## Experience
 
 ### Back-End Developer at Dealroom.co - Amsterdam
 #### January 2023 - Present
+
+**Side Projects**
+
+### https://github.com/hamdiBouhani/mongodb-data-migrate
+ This package allows to perform versioned migrations on your MongoDB using [go.mongodb.org/mongo-driver](https://github.com/mongodb/mongo-go-driver).
+It depends only on standard library and MongoDB Go Driver.
+Inspired by [mongo-migrate](https://github.com/eminetto/mongo-migrate).
+
 
 **Projects:**
 
@@ -150,8 +138,3 @@ Java, Multithreading, Genetic Algorithm (DEIWO).
 
 **Research Paper:**
 [Link to Research Paper](https://www.ijimai.org/journal/bibcite/reference/2684)
-
----
-```
-
-Feel free to modify and expand on this template based on additional details you want to include or specific formatting preferences. This template is written in Markdown, a lightweight markup language commonly used for documentation and online content.
