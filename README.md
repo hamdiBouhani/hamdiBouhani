@@ -10,8 +10,12 @@ With over 7 years of engineering experience, my expertise lies in designing scal
 
 ### Core Architecture & Technical Stack:
 • Primary Language: Golang (Go)
+
 • Cloud & Infrastructure: Docker, Kubernetes, Terraform, Platform Engineering
+
 • Databases & Messaging: PostgreSQL, Redis, Kafka, Distributed Systems
+
 • Secondary Ecosystems: Enterprise Java, Spring Boot, Microservice Migrations
+
 I thrive in fast-paced scale-up environments and engineering-first teams where code efficiency, system performance, and infrastructure scalability are top priorities. Let's connect to discuss high-scale backend or platform engineering opportunities.
 
